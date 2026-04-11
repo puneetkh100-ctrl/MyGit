@@ -1,3 +1,3 @@
 # MyGit
 Learning Github
-<Br>Author -Puneet K
+<Br>Author -<BR>Puneet K
